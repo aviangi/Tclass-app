@@ -1,0 +1,5 @@
+{
+  "name": "Teacher's Class Manager",
+  "description": "An application for teachers to manage classes, homework, and fees. Features include class scheduling, fee and homework tracking, reminders, and a comprehensive dashboard with search and filter capabilities.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,22 @@
+
+{
+  "short_name": "Class Mgr",
+  "name": "Teacher's Class Manager",
+  "icons": [
+    {
+      "src": "/icons/icon-192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/icon-512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#f1f5f9",
+  "description": "An application for teachers to manage classes, homework, and fees."
+}
